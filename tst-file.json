@@ -1,0 +1,153 @@
+{
+    "traverseToTop": {
+        "isAvailabilityOverriden": false,
+        "_type": "Asset",
+        "has_parent": [
+            {
+                "isAvailabilityOverriden": false,
+                "_type": "Asset",
+                "has_parent": [
+                    {
+                        "isAvailabilityOverriden": false,
+                        "_type": "Asset",
+                        "has_parent": [
+                            {
+                                "createdAt": 1677757827554,
+                                "calculatedAvailability": 2,
+                                "useOverriddenAvailability": true,
+                                "_type": "Asset",
+                                "name": "Finance",
+                                "_id": 41,
+                                "type": "",
+                                "overriddenAvailability": 3,
+                                "assetType": "BUSINESS_PROCESS",
+                                "updatedAt": 1677768746010
+                            }
+                        ],
+                        "isConfidentialityCalculated": false,
+                        "type": "",
+                        "isAvailabilityCalculated": false,
+                        "assetType": "BUSINESS_PROCESS",
+                        "isintegrityOverriden": false,
+                        "isIntegrityCalculated": false,
+                        "calculatedAvailability": 2,
+                        "createdAt": 1677757844474,
+                        "name": "Accounting",
+                        "calculatedIntegrity": 5,
+                        "isConfidentialityOverriden": false,
+                        "_id": 43,
+                        "updatedAt": 1678729148237
+                    }
+                ],
+                "isConfidentialityCalculated": false,
+                "type": "",
+                "isAvailabilityCalculated": false,
+                "assetType": "OTHER",
+                "isintegrityOverriden": false,
+                "createdAt": 1678706750598,
+                "isIntegrityCalculated": false,
+                "calculatedAvailability": 4,
+                "name": "Central EU Accounting",
+                "calculatedIntegrity": 4,
+                "isConfidentialityOverriden": false,
+                "_id": 82,
+                "calculatedConfidentiality": 3,
+                "updatedAt": 1678706750598
+            },
+            {
+                "isAvailabilityOverriden": false,
+                "_type": "Asset",
+                "has_parent": [
+                    {
+                        "createdAt": 1677757827554,
+                        "calculatedAvailability": 2,
+                        "useOverriddenAvailability": true,
+                        "_type": "Asset",
+                        "name": "Finance",
+                        "_id": 41,
+                        "type": "",
+                        "overriddenAvailability": 3,
+                        "assetType": "BUSINESS_PROCESS",
+                        "updatedAt": 1677768746010
+                    }
+                ],
+                "isConfidentialityCalculated": false,
+                "type": "",
+                "isAvailabilityCalculated": false,
+                "assetType": "BUSINESS_PROCESS",
+                "isintegrityOverriden": false,
+                "isIntegrityCalculated": false,
+                "calculatedAvailability": 2,
+                "createdAt": 1677757844474,
+                "name": "Accounting",
+                "calculatedIntegrity": 5,
+                "isConfidentialityOverriden": false,
+                "_id": 43,
+                "updatedAt": 1678729148237
+            }
+        ],
+        "isConfidentialityCalculated": false,
+        "type": "",
+        "isAvailabilityCalculated": false,
+        "assetType": "BUSINESS_PROCESS",
+        "isintegrityOverriden": false,
+        "isIntegrityCalculated": false,
+        "calculatedAvailability": 3,
+        "createdAt": 1677859510538,
+        "name": "Accounting Poland",
+        "calculatedIntegrity": 5,
+        "isConfidentialityOverriden": false,
+        "_id": 55,
+        "calculatedConfidentiality": 2,
+        "updatedAt": 1678717312524
+    },
+    "traverseToBottom": {
+        "isAvailabilityOverriden": false,
+        "_type": "Asset",
+        "has_parent": [
+            {
+                "createdAt": 1678279638772,
+                "_type": "Asset",
+                "name": "The  Polish Accounting system",
+                "has_parent": [
+                    {
+                        "createdAt": 1678279723764,
+                        "_type": "Asset",
+                        "name": "Internal",
+                        "_id": 72,
+                        "type": "",
+                        "assetType": "SYSTEM",
+                        "updatedAt": 1678279723764
+                    },
+                    {
+                        "createdAt": 1678279737302,
+                        "_type": "Asset",
+                        "name": "external",
+                        "_id": 74,
+                        "type": "",
+                        "assetType": "SYSTEM",
+                        "updatedAt": 1678279765609
+                    }
+                ],
+                "_id": 68,
+                "type": "",
+                "assetType": "SYSTEM",
+                "updatedAt": 1678279700343
+            }
+        ],
+        "isConfidentialityCalculated": false,
+        "type": "",
+        "isAvailabilityCalculated": false,
+        "assetType": "BUSINESS_PROCESS",
+        "isintegrityOverriden": false,
+        "isIntegrityCalculated": false,
+        "calculatedAvailability": 3,
+        "createdAt": 1677859510538,
+        "name": "Accounting Poland",
+        "calculatedIntegrity": 5,
+        "isConfidentialityOverriden": false,
+        "_id": 55,
+        "calculatedConfidentiality": 2,
+        "updatedAt": 1678717312524
+    }
+}
