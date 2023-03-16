@@ -1,0 +1,40 @@
+{
+    "traverseToTop": {
+        "createdAt": 1677860504825,
+        "_type": "Asset",
+        "name": "Product division",
+        "has_parent": [
+            {
+                "calculatedAvailability": 2,
+                "createdAt": 1677757863945,
+                "_type": "Asset",
+                "name": "Sales",
+                "calculatedIntegrity": 3,
+                "has_parent": [
+                    {
+                        "createdAt": 1677757827554,
+                        "calculatedAvailability": 2,
+                        "useOverriddenAvailability": true,
+                        "_type": "Asset",
+                        "name": "Finance",
+                        "_id": 41,
+                        "type": "",
+                        "overriddenAvailability": 3,
+                        "assetType": "BUSINESS_PROCESS",
+                        "updatedAt": 1677768746010
+                    }
+                ],
+                "_id": 45,
+                "calculatedConfidentiality": 5,
+                "type": "",
+                "assetType": "BUSINESS_PROCESS",
+                "updatedAt": 1678379971976
+            }
+        ],
+        "_id": 57,
+        "type": "",
+        "assetType": "BUSINESS_PROCESS",
+        "updatedAt": 1678187517861
+    },
+    "traverseToBottom": {}
+}
